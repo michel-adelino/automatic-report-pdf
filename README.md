@@ -51,7 +51,7 @@ Non-functional Requirements:
 1. Clone this repo into a project folder and create a virtual environment
 ```
 cd project-folder/
-git clone https://github.com/westoleaboat/automatic-report-pdf.git
+git clone https://github.com/<username>/automatic-report-pdf.git
 cd automatic-report-pdf/
 python3 -m venv env_name
 ```
